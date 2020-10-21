@@ -1,3 +1,13 @@
+# What's App Clone
+This is a FUll Stack project build using React.Js and Firebase.
+[CLICK HERE TO GO TO THE APP](https://whatsapp-clone-cd8c5.web.app/)
+
+
+![image](https://github.com/Sayak007/whatsapp-clone/blob/master/whatsappclone1.jpg)
+
+![image](https://github.com/Sayak007/whatsapp-clone/blob/master/whatsappclone2.jpg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
